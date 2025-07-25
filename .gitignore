@@ -67,3 +67,5 @@ Thumbs.db
 
 # UV
 .python-version 
+MLproject
+python_env.yaml
